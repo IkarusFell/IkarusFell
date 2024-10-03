@@ -1,11 +1,12 @@
-About Me:
+8About Me:
 
 Name           : Parthiban<br>Gender        : Male<br>Loves           : Book, Games.<br>Profession  : Student<br>
 
 
 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hHkHRFb4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ikarus_Fell_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IkarusFell_01) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hHkHRFb4)         [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ikarus_Fell_01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]           [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IkarusFell_01) 
 
 Tech Stack:
 

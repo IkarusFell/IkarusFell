@@ -1,8 +1,11 @@
 # 💫 About Me:
                                                          
 Name         : Parthiban
+
 Gender       : Male
+
 Loves        : Book, Games.
+
 Profession   : Student  
 
 

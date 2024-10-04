@@ -1,9 +1,9 @@
 # 💫 About Me:
                                                          
-                                                          <br>Name         : Parthiban
-                                                          <br>Gender       : Male
-                                                          <br>Loves        : Book, Games.
-                                                          <br>Profession   : Student  
+Name         : Parthiban
+Gender       : Male
+Loves        : Book, Games.
+Profession   : Student  
 
 
 ## 🌐 Socials:

@@ -11,7 +11,7 @@ Profession   : Student
 
 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/hHkHRFb4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ikarus_Fell_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/parthiban-s-327337301) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ikarussfell) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IkarusFell_01) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/hHkHRFb4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ikarus_Fell_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/s-parthiban) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ikarussfell) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IkarusFell_01) 
 
 💻 Tech Stack:
 
@@ -23,8 +23,4 @@ Profession   : Student
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IkarusFell&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IkarusFell&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-✍️ Random Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

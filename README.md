@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student interested in tech and learning how things work. I’m still figuring things out, making mistakes, writing code, and trying to get a little better every day.
+I'm a student.
 
 
 ## 🌐 Socials:
